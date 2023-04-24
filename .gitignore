@@ -1,7 +1,7 @@
 gitlab_credentials.txt
 
-examples/
 modulus/
 __pycache__/
 jupyter_notebook/
 source_code/
+examples/
